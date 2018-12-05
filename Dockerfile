@@ -1,5 +1,3 @@
-### Nginx & Index
-
 FROM nginx
 MAINTAINER odadph@gmail.com
 
