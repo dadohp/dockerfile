@@ -1,2 +1,3 @@
 # Dockerfile for MongoDB
+$ mongo admin -u admin -p --port 27017 --host IP_server
 
